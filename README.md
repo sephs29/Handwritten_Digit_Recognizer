@@ -17,5 +17,5 @@
 <br><img src = 'result/image2.jpg'>
 <br>
 <br>
-**Note:**
+**_Note:_**
 *Used sorting_contuors.py from pyimagesearch.com*
