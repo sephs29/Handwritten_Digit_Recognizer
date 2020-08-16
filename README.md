@@ -16,3 +16,4 @@
 <br>
 <br><img src = 'result/image2.jpg'>
 <br>
+<br>Used sorting_contuors.py from pyimagesearch.com
